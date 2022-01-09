@@ -11,3 +11,5 @@ Debug Symbols Repositories Used:
 1. [debuginfo.centos.org](http://debuginfo.centos.org/)
 2. [ddebs.ubuntu.com](http://ddebs.ubuntu.com/)
 3. [archives.fedoraproject.org](https://archives.fedoraproject.org/)
+4. [ftp.debian.org/debian](http://ftp.debian.org/debian)
+
